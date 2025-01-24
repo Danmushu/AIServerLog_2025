@@ -8,3 +8,6 @@
 
 ## 2025.1.20
 1. 下载了tmux工具
+
+## 2025.1.24
+1. 尝试配置[cuda-driver]("https://github.com/YdrMaster/cuda-driver")
